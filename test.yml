@@ -1,0 +1,12 @@
+---
+- content: |-
+    Hi,
+        Good day.
+  create_at: &1 2017-04-12 17:22:11.492187956 +08:00
+  shown_at: *1
+- content: Just Do IT
+  create_at: *1
+  shown_at: 2017-04-12 17:22:59.865542904 +08:00
+- content: Where amazing happens!
+  create_at: 2017-04-12 17:25:02.325702873 +08:00
+  shown_at: 2017-04-12 17:26:21.496811359 +08:00
